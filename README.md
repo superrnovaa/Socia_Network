@@ -15,8 +15,8 @@ This project is a Facebook-like social network application that includes feature
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, and a JS framework of your choice (e.g., Next.js, Vue.js, Svelte, Mithril).
-- **Backend**: Go, SQLite for database management, and Caddy for the web server.
+- **Frontend**: HTML, CSS, JavaScript, and a Next.js framework..
+- **Backend**: Go, SQLite for database management.
 - **Containerization**: Docker for creating separate images for frontend and backend.
 - **Authentication**: Sessions and cookies for user login and registration.
 - **Websockets**: For real-time chat functionality.
@@ -81,8 +81,4 @@ This project is a Facebook-like social network application that includes feature
 - Access the frontend at `http://localhost:3000`.
 - The backend API is available at `http://localhost:8080`.
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
